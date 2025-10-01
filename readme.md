@@ -15,7 +15,7 @@ Unlike the already existing web pages and event calendar scattered across Calvin
 - Timothy Aluko
 - Ray Flanagan
 - Alex Ye
-- Nana Osei Asiedu Yirenkyi
+- Neil Mensah
 
 ## Links
 - [Mobile Client](https://github.com/cs262k-2024/knight-connect-client)
